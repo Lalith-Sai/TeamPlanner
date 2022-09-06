@@ -1,4 +1,4 @@
-package com.example.logic;
+package com.teamplanner.logic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
