@@ -14,7 +14,7 @@ public class MeetingEventController {
 
     @PostMapping("/receiveMeetingEvent")
     void receiveMeetingEvent(@RequestBody MeetingEvent meetingEvent) {
-        LOG.info("Recieved {}", meetingEvent.getMeetingId());
+
     }
 
 }
