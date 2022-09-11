@@ -3,7 +3,9 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+
 web/src/main/java/com/teamplanner/web/meetingevent.json
+
 
 ### STS ###
 .apt_generated
